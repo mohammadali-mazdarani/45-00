@@ -9,9 +9,10 @@ using namespace std;
 * Cascading member function calls with the this pointer
 */
 //create namespace
-/*Branch name
-*
-*
+/*
+* Branch name : 
+* main : total program and ready to run.
+* main_test : write program and debug.
 */
 //prototype
 //--------------------------
