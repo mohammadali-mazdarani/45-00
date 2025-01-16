@@ -38,6 +38,9 @@ int _minute ;
 
 int _second ;
 
+public :
+
+Time ( int = 0 , int = 0 , int = 0 ) ;
 
 } ;
 
@@ -48,6 +51,25 @@ int main(int argc, char** argv)
 
 getch();
 }
+
 //function variable
-//--------------------------
-//functions
+
+// !--------------------------
+
+// TODO Constructors and functions for classes and friend function and function's for main program.
+
+// & ToDo constructors and functions for classes.
+
+// ? TODO Constructors and functions for class Time.
+
+/*
+* Constructor_1 .
+* This constructor receive three integer value .
+* This constructor use setTime function .
+*/
+
+Time :: Time ( int hours_constructor_1 , int minute_constructor_1 , int second_constructor_1){
+
+setTime( hours_constructor_1 , minute_constructor_1 , second_constructor_1 ) ;
+
+}
