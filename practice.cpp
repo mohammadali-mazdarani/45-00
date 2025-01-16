@@ -30,7 +30,13 @@ using namespace std;
 
 class Time{
 
+private : 
 
+int _hours ;
+
+int _minute ;
+
+int _second ;
 
 
 } ;
