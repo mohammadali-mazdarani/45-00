@@ -23,9 +23,20 @@ using namespace std;
 //struct
 //-------------------
 //union
-//-------------------
-//class
-//-------------------
+// !-------------------
+// TODO classes
+
+// & TODO class Time.
+
+class Time{
+
+
+
+
+} ;
+
+// !-------------------
+
 int main(int argc, char** argv)
 {
 
